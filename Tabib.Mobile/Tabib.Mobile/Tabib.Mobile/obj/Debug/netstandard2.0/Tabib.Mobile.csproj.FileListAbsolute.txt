@@ -1,0 +1,17 @@
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\bin\Debug\netstandard2.0\Tabib.Mobile.deps.json
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\bin\Debug\netstandard2.0\Tabib.Mobile.dll
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\bin\Debug\netstandard2.0\Tabib.Mobile.pdb
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.csproj.AssemblyReference.cache
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Views\StarredPage.xaml.g.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.AssemblyInfoInputs.cache
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.AssemblyInfo.cs
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.csproj.CoreCompileInputs.cache
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.sourcelink.json
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.dll
+C:\Projects\Tabib-uz\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\Tabib.Mobile\obj\Debug\netstandard2.0\Tabib.Mobile.pdb

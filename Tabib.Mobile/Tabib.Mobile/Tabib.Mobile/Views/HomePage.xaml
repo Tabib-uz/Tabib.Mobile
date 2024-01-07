@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="Tabib.Mobile.Views.HomePage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:md="clr-namespace:Plugin.MaterialDesignControls.Material3;assembly=Plugin.MaterialDesignControls">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Margin="20" Orientation="Horizontal">
+                <md:MaterialSearch BackgroundColor="#ebe9ea"
+                                   BorderWidth="0"
+                                   CornerRadius="15"
+                                   HasBorder="True"
+                                   IndicatorColor="Black"
+                                   LeadingIcon="search_dark.png"
+                                   Placeholder="Search doctors..."
+                                   SupportingTextColor="Black"
+                                   WidthRequest="275" />
+                <ImageButton Margin="15,0,0,0"
+                             Padding="15"
+                             BackgroundColor="#019966"
+                             CornerRadius="15"
+                             HeightRequest="55"
+                             Source="range_slider.png"
+                             WidthRequest="75" />
+            </StackLayout>
+            <StackLayout Margin="25,0,25,0" Orientation="Horizontal">
+                <Label FontAttributes="Bold"
+                       FontSize="20"
+                       Text="Nearby Hospitals"
+                       TextColor="Black" />
+                <Label Margin="0,0,0,20"
+                       FontAttributes="Bold"
+                       FontSize="16"
+                       HorizontalOptions="EndAndExpand"
+                       Text="See All"
+                       TextColor="#0b63c1"
+                       VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

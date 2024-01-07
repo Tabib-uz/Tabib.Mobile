@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "htNwTGChK304R5v5um+aV/oPBI7d0M8L7PPQ+QNFH9jdJj+4saaq4Ak16hQ9ghlSIP0gPpc3Jmn2oglS9wgNoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Tabib-uz\\Tabib.Mobile\\Tabib.Mobile\\Tabib.Mobile\\Tabib.Mobile.iOS\\Tabib.Mobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\plugin.materialdesigncontrols\\3.1.2\\plugin.materialdesigncontrols.3.1.2.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\prism.dryioc.forms\\8.1.97\\prism.dryioc.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\webp.touch\\1.0.8\\webp.touch.1.0.8.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.6\\xamarin.communitytoolkit.2.0.6.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.essentials.interfaces\\1.7.0\\xamarin.essentials.interfaces.1.7.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.ffimageloading\\2.4.11.982\\xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.ffimageloading.forms\\2.4.11.982\\xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.forms.skeleton\\2.0.0\\xamarin.forms.skeleton.2.0.0.nupkg.sha512",
+    "C:\\Users\\Miraziz_Khidoyatov\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials.Interfaces from 1.8.0 to 1.7.0. Reference the package directly from the project to select a different version. \r\n Tabib.Mobile.iOS -> Tabib.Mobile -> Xamarin.Essentials.Interfaces (>= 1.8.0) \r\n Tabib.Mobile.iOS -> Xamarin.Essentials.Interfaces (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials.Interfaces",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2622 to 5.0.0.2291. Reference the package directly from the project to select a different version. \r\n Tabib.Mobile.iOS -> Tabib.Mobile -> Xamarin.Forms (>= 5.0.0.2622) \r\n Tabib.Mobile.iOS -> Xamarin.Forms (>= 5.0.0.2291)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
